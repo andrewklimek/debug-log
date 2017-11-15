@@ -4,7 +4,7 @@ Plugin Name: Debug Log
 Description: View and Delete the debug log from the Tools menu.  Extremely light and simple.
 Version:     0.3
 Author:      Andrew J Klimek
-Author URI:  https://readycat.net
+Author URI:  https://github.com/andrewklimek
 License:     GPL2
 License URI: https://www.gnu.org/licenses/gpl-2.0.html
 
